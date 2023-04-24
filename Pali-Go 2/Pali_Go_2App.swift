@@ -8,9 +8,12 @@
 import SwiftUI
 
 @main
-struct Pali_Go_2App: App {
-    var body: some Scene {
-        WindowGroup {
+struct Pali_Go_2App: App
+{
+    var body: some Scene
+    {
+        WindowGroup
+        {
             ContentView()
         }
     }
